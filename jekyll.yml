@@ -9,21 +9,17 @@ keep_files:
   - assets
 
 # Site settings
-name: Kong
-title: Open-Source API Management and Microservice Management
-description: "Secure, Manage &amp; Extend your APIs or Microservices with plugins for authentication, logging, rate-limiting, transformations and more."
+name: Elektropay
+title: Open-Commerce Payments and Microservice Account Management
+description: "Secure, Manage &amp; Boost your Commerce or Microservices with plugins for payments, invoicing, rate-limiting, transformations and more."
 links:
-  web: https://docs.konghq.com
-  share: https://docs.konghq.com # legacy link, must maintain for social sharing counters
-  download: https://bintray.com/kong
-  instaclustr: "https://www.instaclustr.com/products/kong/?utm_source=partnership&utm_medium=link&utm_campaign=mashape"
+  web: https://docs.elektropay.com
+  share: https://docs.elektropay.com # legacy link, must maintain for social sharing counters
+  download: https://bintray.com/elektropay
+  instaclustr: "https://www.instaclustr.com/products/elektropay/?utm_source=partnership&utm_medium=link&utm_campaign=mashape"
 repos:
-  kong: https://github.com/Kong/kong
-  docs: https://github.com/Kong/docs.konghq.com
-  vagrant: https://github.com/Kong/kong-vagrant
-  homebrew: https://github.com/Kong/homebrew-kong
-  cloudformation: https://github.com/Kong/kong-dist-cloudformation
-  oauth2_hello_world: https://github.com/Kong/kong-oauth2-hello-world
+  Elektropay: https://github.com/Elektropay/elektropay
+  docs: https://github.com/Elektropay/docs.elektropay.com
 
 collections:
   hub:
@@ -91,7 +87,7 @@ defaults:
       path: 'about'
     values:
       layout: 'about'
-      header_html: '<a class="github-button" href="https://github.com/Kong/kong" data-style="mega" data-count-href="/Kong/kong/stargazers" data-count-api="/repos/Kong/kong#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star Kong/kong on GitHub">Star</a>&nbsp;<a class="github-button" href="https://github.com/Kong/kong/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/Kong/kong/network" data-count-api="/repos/Kong/kong#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork Kong/kong on GitHub">Fork</a>'
+      header_html: '<a class="github-button" href="https://github.com/Elektropay/elektropay" data-style="mega" data-count-href="/Elektropay/kong/stargazers" data-count-api="/repos/Kong/kong#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star Kong/kong on GitHub">Star</a>&nbsp;<a class="github-button" href="https://github.com/Kong/kong/fork" data-icon="octicon-repo-forked" data-style="mega" data-count-href="/Kong/kong/network" data-count-api="/repos/Kong/kong#forks_count" data-count-aria-label="# forks on GitHub" aria-label="Fork Kong/kong on GitHub">Fork</a>'
       breadcrumbs: null
 
   - scope:
